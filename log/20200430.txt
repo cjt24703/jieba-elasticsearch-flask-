@@ -1,0 +1,20 @@
+Timestamp: 2020-04-30 14:43:52
+Uncaught exception: 
+name 'gfsdgsfgs' is not defined
+
+
+Timestamp: 2020-04-30 14:44:05
+Uncaught exception: 
+name 'gfsdgsfgs' is not defined
+
+
+Timestamp: 2020-04-30 14:44:18
+Uncaught exception: 
+name 'gfsdgsfgs' is not defined
+
+
+Timestamp: 2020-04-30 14:44:46
+Uncaught exception: 
+division by zero
+
+

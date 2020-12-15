@@ -1,0 +1,6 @@
+ES_TEST_HOST = "localhost"
+ES_TEST_PORT = 9200
+ES_TIMEOUT = 1
+ES_USE_SSL = True
+ES_VERIFY = False
+ES_SSL_SHOW_WARN =False
